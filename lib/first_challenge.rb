@@ -6,4 +6,3 @@ def first_challenge
 
    }
 }
-
